@@ -65,7 +65,7 @@ body {
   font-weight: 300;
   background-repeat: repeat;
 
-  animation: moveBackground 15s linear infinite;
+  /* animation: moveBackground 15s linear infinite; */
 }
 
 a {
